@@ -1,0 +1,47 @@
+ .optin{ 
+    max-width: 100%; 
+    min-width: 25%; 
+    border-width: 2px; 
+    border-color: #CCCCCC; 
+    border-radius: 24px; 
+    border-style: solid; 
+    color: #222222; 
+    font-size: 20px; 
+    background-color: #FFFFFF; 
+    /*padding: 20px;*/ 
+} 
+.optin .content{ 
+    /*margin: 10px; 
+    display:block;*/
+} 
+
+.optin div{ 
+    display: block; 
+} 
+.optin input{ 
+    border-width: 1px; 
+    border-style: solid; 
+    border-color: #666666; 
+    border-radius: 0px; 
+    padding: 10px; 
+    width: 94%; 
+} 
+
+#leadin, #leadin2step{ 
+    margin-bottom: 10px; 
+} 
+
+.clear{ 
+    clear: both; 
+} 
+
+.optin .field{ 
+    margin-bottom: 10px; 
+} 
+
+.optin .privacy{ 
+    font-size: 12px; 
+    color:#555555; 
+    text-align:center;
+    clear:both;
+} 

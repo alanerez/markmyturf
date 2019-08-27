@@ -1,0 +1,1537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Profit Builder\n"
+"POT-Creation-Date: 2013-11-29 11:19+0100\n"
+"PO-Revision-Date: 2013-11-29 11:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Br0\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../profit_builder_class.php:184
+msgid "Edit In Frontend"
+msgstr ""
+
+#: ../profit_builder_class.php:193
+msgid "Activate Profit Builder"
+msgstr ""
+
+#: ../functions/admin_control_list.php:7
+msgid "General options"
+msgstr ""
+
+#: ../functions/admin_control_list.php:11
+msgid "Utility options"
+msgstr ""
+
+#: ../functions/admin_control_list.php:16
+msgid "Save over post content"
+msgstr ""
+
+#: ../functions/admin_control_list.php:17
+msgid "overwrite old post content when saving - recomended"
+msgstr ""
+
+#: ../functions/admin_control_list.php:23
+msgid "Show CSS controls"
+msgstr ""
+
+#: ../functions/admin_control_list.php:24
+msgid "Display shortcode controls for setting classes"
+msgstr ""
+
+#: ../functions/admin_control_list.php:30
+msgid "Custom CSS code"
+msgstr ""
+
+#: ../functions/admin_control_list.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../functions/admin_control_list.php:40
+msgid "Default module margin"
+msgstr ""
+
+#: ../functions/admin_control_list.php:46
+msgid "High rezolution"
+msgstr ""
+
+#: ../functions/admin_control_list.php:50
+#: ../functions/admin_control_list.php:73
+#: ../functions/admin_control_list.php:102
+msgid "Content width"
+msgstr ""
+
+#: ../functions/admin_control_list.php:60
+#: ../functions/admin_control_list.php:83
+#: ../functions/admin_control_list.php:112
+msgid "Column margin"
+msgstr ""
+
+#: ../functions/admin_control_list.php:69
+msgid "Medium rezolution"
+msgstr ""
+
+#: ../functions/admin_control_list.php:91
+#: ../functions/admin_control_list.php:120
+#: ../functions/admin_control_list.php:132
+msgid "Hide sidebar"
+msgstr ""
+
+#: ../functions/admin_control_list.php:98
+msgid "Low rezolution"
+msgstr ""
+
+#: ../functions/admin_control_list.php:127
+msgid "Mobile devices"
+msgstr ""
+
+#: ../functions/admin_control_list.php:141
+#: ../functions/admin_control_list.php:422
+#: ../functions/admin_control_list.php:476
+#: ../functions/admin_control_list.php:532
+#: ../functions/admin_control_list.php:675
+#: ../functions/admin_control_list.php:773
+#: ../functions/admin_control_list.php:871
+#: ../functions/admin_control_list.php:925
+#: ../functions/admin_control_list.php:1023
+#: ../functions/admin_control_list.php:1121
+#: ../functions/admin_control_list.php:1175
+#: ../functions/admin_control_list.php:1229
+#: ../functions/admin_control_list.php:1415
+#: ../functions/admin_control_list.php:1601
+#: ../functions/admin_control_list.php:1692
+msgid "Save options"
+msgstr ""
+
+#: ../functions/admin_control_list.php:147
+msgid "Typography options"
+msgstr ""
+
+#: ../functions/admin_control_list.php:148
+msgid ""
+"Font and typography settings for each shortcode. The \"Default\" option will "
+"use the theme fonts."
+msgstr ""
+
+#: ../functions/admin_control_list.php:152 ../functions/shortcode_list.php:53
+#: ../functions/shortcode_list.php:1129
+msgid "Heading"
+msgstr ""
+
+#: ../functions/admin_control_list.php:156
+msgid "H1 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:163
+#: ../functions/admin_control_list.php:207
+#: ../functions/admin_control_list.php:251
+#: ../functions/admin_control_list.php:295
+#: ../functions/admin_control_list.php:339
+#: ../functions/admin_control_list.php:383
+#: ../functions/admin_control_list.php:437
+#: ../functions/admin_control_list.php:492
+#: ../functions/admin_control_list.php:548
+#: ../functions/admin_control_list.php:592
+#: ../functions/admin_control_list.php:636
+#: ../functions/admin_control_list.php:690
+#: ../functions/admin_control_list.php:734
+#: ../functions/admin_control_list.php:788
+#: ../functions/admin_control_list.php:832
+#: ../functions/admin_control_list.php:886
+#: ../functions/admin_control_list.php:940
+#: ../functions/admin_control_list.php:984
+#: ../functions/admin_control_list.php:1038
+#: ../functions/admin_control_list.php:1082
+#: ../functions/admin_control_list.php:1136
+#: ../functions/admin_control_list.php:1190
+#: ../functions/admin_control_list.php:1244
+#: ../functions/admin_control_list.php:1288
+#: ../functions/admin_control_list.php:1332
+#: ../functions/admin_control_list.php:1376
+#: ../functions/admin_control_list.php:1430
+#: ../functions/admin_control_list.php:1474
+#: ../functions/admin_control_list.php:1518
+#: ../functions/admin_control_list.php:1562
+msgid "Font family"
+msgstr ""
+
+#: ../functions/admin_control_list.php:170
+#: ../functions/admin_control_list.php:214
+#: ../functions/admin_control_list.php:258
+#: ../functions/admin_control_list.php:302
+#: ../functions/admin_control_list.php:346
+#: ../functions/admin_control_list.php:390
+#: ../functions/admin_control_list.php:444
+#: ../functions/admin_control_list.php:499
+#: ../functions/admin_control_list.php:555
+#: ../functions/admin_control_list.php:599
+#: ../functions/admin_control_list.php:643
+#: ../functions/admin_control_list.php:697
+#: ../functions/admin_control_list.php:741
+#: ../functions/admin_control_list.php:795
+#: ../functions/admin_control_list.php:839
+#: ../functions/admin_control_list.php:893
+#: ../functions/admin_control_list.php:947
+#: ../functions/admin_control_list.php:991
+#: ../functions/admin_control_list.php:1045
+#: ../functions/admin_control_list.php:1089
+#: ../functions/admin_control_list.php:1143
+#: ../functions/admin_control_list.php:1197
+#: ../functions/admin_control_list.php:1251
+#: ../functions/admin_control_list.php:1295
+#: ../functions/admin_control_list.php:1339
+#: ../functions/admin_control_list.php:1383
+#: ../functions/admin_control_list.php:1437
+#: ../functions/admin_control_list.php:1481
+#: ../functions/admin_control_list.php:1525
+#: ../functions/admin_control_list.php:1569
+msgid "Font style"
+msgstr ""
+
+#: ../functions/admin_control_list.php:179
+#: ../functions/admin_control_list.php:223
+#: ../functions/admin_control_list.php:267
+#: ../functions/admin_control_list.php:311
+#: ../functions/admin_control_list.php:355
+#: ../functions/admin_control_list.php:399
+#: ../functions/admin_control_list.php:453
+#: ../functions/admin_control_list.php:508
+#: ../functions/admin_control_list.php:564
+#: ../functions/admin_control_list.php:608
+#: ../functions/admin_control_list.php:652
+#: ../functions/admin_control_list.php:706
+#: ../functions/admin_control_list.php:750
+#: ../functions/admin_control_list.php:804
+#: ../functions/admin_control_list.php:848
+#: ../functions/admin_control_list.php:902
+#: ../functions/admin_control_list.php:956
+#: ../functions/admin_control_list.php:1000
+#: ../functions/admin_control_list.php:1054
+#: ../functions/admin_control_list.php:1098
+#: ../functions/admin_control_list.php:1152
+#: ../functions/admin_control_list.php:1206
+#: ../functions/admin_control_list.php:1260
+#: ../functions/admin_control_list.php:1304
+#: ../functions/admin_control_list.php:1348
+#: ../functions/admin_control_list.php:1392
+#: ../functions/admin_control_list.php:1446
+#: ../functions/admin_control_list.php:1490
+#: ../functions/admin_control_list.php:1534
+#: ../functions/admin_control_list.php:1578
+#: ../functions/shortcode_list.php:225
+msgid "Font size"
+msgstr ""
+
+#: ../functions/admin_control_list.php:189
+#: ../functions/admin_control_list.php:233
+#: ../functions/admin_control_list.php:277
+#: ../functions/admin_control_list.php:321
+#: ../functions/admin_control_list.php:365
+#: ../functions/admin_control_list.php:409
+#: ../functions/admin_control_list.php:463
+#: ../functions/admin_control_list.php:518
+#: ../functions/admin_control_list.php:574
+#: ../functions/admin_control_list.php:618
+#: ../functions/admin_control_list.php:662
+#: ../functions/admin_control_list.php:716
+#: ../functions/admin_control_list.php:760
+#: ../functions/admin_control_list.php:814
+#: ../functions/admin_control_list.php:858
+#: ../functions/admin_control_list.php:912
+#: ../functions/admin_control_list.php:966
+#: ../functions/admin_control_list.php:1010
+#: ../functions/admin_control_list.php:1064
+#: ../functions/admin_control_list.php:1108
+#: ../functions/admin_control_list.php:1162
+#: ../functions/admin_control_list.php:1216
+#: ../functions/admin_control_list.php:1270
+#: ../functions/admin_control_list.php:1314
+#: ../functions/admin_control_list.php:1358
+#: ../functions/admin_control_list.php:1402
+#: ../functions/admin_control_list.php:1456
+#: ../functions/admin_control_list.php:1500
+#: ../functions/admin_control_list.php:1544
+#: ../functions/admin_control_list.php:1588
+msgid "Line height"
+msgstr ""
+
+#: ../functions/admin_control_list.php:200
+msgid "H2 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:244
+msgid "H3 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:288
+msgid "H4 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:332
+msgid "H5 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:376
+msgid "H6 typography"
+msgstr ""
+
+#: ../functions/admin_control_list.php:426
+msgid "Buttons"
+msgstr ""
+
+#: ../functions/admin_control_list.php:430
+#: ../functions/admin_control_list.php:485
+#: ../functions/admin_control_list.php:879
+#: ../functions/admin_control_list.php:1129
+#: ../functions/admin_control_list.php:1369
+msgid "Text font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:481 ../functions/shortcode_list.php:530
+msgid "Slider"
+msgstr ""
+
+#: ../functions/admin_control_list.php:537 ../functions/shortcode_list.php:758
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions/admin_control_list.php:541
+msgid "Name font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:585
+msgid "Profession font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:629
+msgid "Quote font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:679 ../functions/shortcode_list.php:832
+msgid "Tabs"
+msgstr ""
+
+#: ../functions/admin_control_list.php:683
+#: ../functions/admin_control_list.php:781
+#: ../functions/admin_control_list.php:1031
+#: ../functions/admin_control_list.php:1237
+#: ../functions/admin_control_list.php:1423
+msgid "Title font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:727
+#: ../functions/admin_control_list.php:825
+#: ../functions/admin_control_list.php:1075
+#: ../functions/admin_control_list.php:1467
+msgid "Content font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:777 ../functions/shortcode_list.php:956
+msgid "Accordion"
+msgstr ""
+
+#: ../functions/admin_control_list.php:875
+#: ../functions/shortcode_list.php:1646
+msgid "Alert box"
+msgstr ""
+
+#: ../functions/admin_control_list.php:929
+#: ../functions/shortcode_list.php:1940 ../functions/shortcode_list.php:1970
+msgid "Nav menu"
+msgstr ""
+
+#: ../functions/admin_control_list.php:933
+msgid "Main font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:977
+msgid "Submenu font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1027
+#: ../functions/shortcode_list.php:1730
+msgid "Features"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1125
+msgid "Searchbox"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1179
+#: ../functions/shortcode_list.php:324 ../functions/shortcode_list.php:330
+#: ../functions/shortcode_list.php:582 ../functions/shortcode_list.php:588
+#: ../functions/shortcode_list.php:784 ../functions/shortcode_list.php:880
+#: ../functions/shortcode_list.php:1004
+msgid "Image"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1183
+msgid "Description font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1233
+#: ../functions/shortcode_list.php:1087
+msgid "Pricing table"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1281
+msgid "Price font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1325
+#: ../functions/admin_control_list.php:1555
+msgid "Button font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1419
+#: ../functions/shortcode_list.php:1842
+msgid "Featured post"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1511
+msgid "Meta links font"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1606
+msgid "Color options"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1607
+msgid ""
+"Default colors used when the shortcode is dropped on the page. Specific "
+"colors can be set for each shortcode while it is being modified."
+msgstr ""
+
+#: ../functions/admin_control_list.php:1616
+#: ../functions/shortcode_list.php:817 ../functions/shortcode_list.php:1069
+#: ../functions/shortcode_list.php:1693
+msgid "Main color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1622
+msgid "Lighter main color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1623
+msgid "Color used when main color is hovered etc."
+msgstr ""
+
+#: ../functions/admin_control_list.php:1629
+msgid "Dark background color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1635
+msgid "Light background color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1641
+msgid "Dark border color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1647
+msgid "Light border color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1653
+#: ../functions/shortcode_list.php:1041 ../functions/shortcode_list.php:1791
+msgid "Title color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1659 ../functions/shortcode_list.php:93
+#: ../functions/shortcode_list.php:241 ../functions/shortcode_list.php:686
+#: ../functions/shortcode_list.php:914 ../functions/shortcode_list.php:1046
+#: ../functions/shortcode_list.php:1521 ../functions/shortcode_list.php:1701
+#: ../functions/shortcode_list.php:1801 ../functions/shortcode_list.php:1932
+#: ../functions/shortcode_list.php:1983 ../functions/shortcode_list.php:2204
+msgid "Text color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1665
+msgid "Text color over main color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1666
+msgid "Used in places where main color is the background color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1672
+msgid "Row background color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1678
+#: ../functions/row_control_list.php:49
+msgid "Column background color"
+msgstr ""
+
+#: ../functions/admin_control_list.php:1684
+#: ../functions/row_control_list.php:54
+msgid "Column background opacity"
+msgstr ""
+
+#: ../functions/menu_controls.php:6
+msgid "Page layout"
+msgstr ""
+
+#: ../functions/menu_controls.php:9 ../functions/shortcode_list.php:294
+msgid "Full width"
+msgstr ""
+
+#: ../functions/menu_controls.php:10
+msgid "One third left sidebar"
+msgstr ""
+
+#: ../functions/menu_controls.php:11
+msgid "One third right sidebar"
+msgstr ""
+
+#: ../functions/menu_controls.php:12
+msgid "One fourth left sidebar"
+msgstr ""
+
+#: ../functions/menu_controls.php:13
+msgid "One fourth right sidebar"
+msgstr ""
+
+#: ../functions/menu_controls.php:18
+msgid "Template elements"
+msgstr ""
+
+#: ../functions/menu_controls.php:19
+msgid "Drag and drop an element to the web page"
+msgstr ""
+
+#: ../functions/menu_controls.php:25
+msgid "Save changes"
+msgstr ""
+
+#: ../functions/menu_controls.php:33
+msgid "Load"
+msgstr ""
+
+#: ../functions/row_control_list.php:5
+msgid "Top padding"
+msgstr ""
+
+#: ../functions/row_control_list.php:12
+msgid "Bottom padding"
+msgstr ""
+
+#: ../functions/row_control_list.php:19
+msgid "Background type"
+msgstr ""
+
+#: ../functions/row_control_list.php:22
+msgid "Static"
+msgstr ""
+
+#: ../functions/row_control_list.php:23
+msgid "Parallax"
+msgstr ""
+
+#: ../functions/row_control_list.php:28 ../functions/shortcode_list.php:311
+#: ../functions/shortcode_list.php:676 ../functions/shortcode_list.php:822
+#: ../functions/shortcode_list.php:945 ../functions/shortcode_list.php:1074
+#: ../functions/shortcode_list.php:1526 ../functions/shortcode_list.php:1717
+#: ../functions/shortcode_list.php:1806 ../functions/shortcode_list.php:1883
+#: ../functions/shortcode_list.php:1998 ../functions/shortcode_list.php:2142
+#: ../functions/shortcode_list.php:2214
+msgid "Background color"
+msgstr ""
+
+#: ../functions/row_control_list.php:33
+msgid "Background image"
+msgstr ""
+
+#: ../functions/row_control_list.php:38
+msgid "Repeat image"
+msgstr ""
+
+#: ../functions/row_control_list.php:43
+msgid "Column padding"
+msgstr ""
+
+#: ../functions/row_control_list.php:66 ../functions/shortcode_list.php:2242
+msgid "ID"
+msgstr ""
+
+#: ../functions/row_control_list.php:67 ../functions/shortcode_list.php:2243
+msgid "For linking via hashtags"
+msgstr ""
+
+#: ../functions/row_control_list.php:72 ../functions/shortcode_list.php:2248
+msgid "Class"
+msgstr ""
+
+#: ../functions/row_control_list.php:73 ../functions/shortcode_list.php:2249
+msgid "For custom css"
+msgstr ""
+
+#: ../functions/shortcode_list.php:72 ../functions/shortcode_list.php:128
+#: ../functions/shortcode_list.php:165 ../functions/shortcode_list.php:287
+#: ../functions/shortcode_list.php:411 ../functions/shortcode_list.php:493
+#: ../functions/shortcode_list.php:734 ../functions/shortcode_list.php:801
+#: ../functions/shortcode_list.php:902 ../functions/shortcode_list.php:1035
+#: ../functions/shortcode_list.php:1510 ../functions/shortcode_list.php:1687
+#: ../functions/shortcode_list.php:1778 ../functions/shortcode_list.php:1876
+#: ../functions/shortcode_list.php:1977 ../functions/shortcode_list.php:2109
+#: ../functions/shortcode_list.php:2173 ../functions/shortcode_list.php:2193
+msgid "Bottom margin"
+msgstr ""
+
+#: ../functions/shortcode_list.php:83 ../functions/shortcode_list.php:118
+#: ../functions/shortcode_list.php:231 ../functions/shortcode_list.php:340
+#: ../functions/shortcode_list.php:661
+msgid "Text alignment"
+msgstr ""
+
+#: ../functions/shortcode_list.php:100
+msgid "Text / HTML"
+msgstr ""
+
+#: ../functions/shortcode_list.php:106 ../functions/shortcode_list.php:652
+#: ../functions/shortcode_list.php:876 ../functions/shortcode_list.php:1000
+#: ../functions/shortcode_list.php:1746
+msgid "Content"
+msgstr ""
+
+#: ../functions/shortcode_list.php:112
+msgid "Format new lines"
+msgstr ""
+
+#: ../functions/shortcode_list.php:120 ../functions/shortcode_list.php:234
+#: ../functions/shortcode_list.php:268 ../functions/shortcode_list.php:343
+#: ../functions/shortcode_list.php:664 ../functions/shortcode_list.php:2118
+msgid "Left"
+msgstr ""
+
+#: ../functions/shortcode_list.php:121 ../functions/shortcode_list.php:236
+#: ../functions/shortcode_list.php:269 ../functions/shortcode_list.php:345
+#: ../functions/shortcode_list.php:666 ../functions/shortcode_list.php:2119
+msgid "Right"
+msgstr ""
+
+#: ../functions/shortcode_list.php:122 ../functions/shortcode_list.php:344
+#: ../functions/shortcode_list.php:665 ../functions/shortcode_list.php:2120
+msgid "Center"
+msgstr ""
+
+#: ../functions/shortcode_list.php:137
+msgid "Separator"
+msgstr ""
+
+#: ../functions/shortcode_list.php:143 ../functions/shortcode_list.php:506
+msgid "Width"
+msgstr ""
+
+#: ../functions/shortcode_list.php:150 ../functions/shortcode_list.php:790
+#: ../functions/shortcode_list.php:892 ../functions/shortcode_list.php:1016
+#: ../functions/shortcode_list.php:1669 ../functions/shortcode_list.php:1768
+#: ../functions/shortcode_list.php:1866
+msgid "Style"
+msgstr ""
+
+#: ../functions/shortcode_list.php:152
+msgid "Solid"
+msgstr ""
+
+#: ../functions/shortcode_list.php:153
+msgid "Dashed"
+msgstr ""
+
+#: ../functions/shortcode_list.php:154
+msgid "Dotted"
+msgstr ""
+
+#: ../functions/shortcode_list.php:155
+msgid "Double"
+msgstr ""
+
+#: ../functions/shortcode_list.php:160
+msgid "Color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:174 ../functions/shortcode_list.php:1131
+msgid "Button"
+msgstr ""
+
+#: ../functions/shortcode_list.php:180 ../functions/shortcode_list.php:1664
+#: ../functions/shortcode_list.php:2188
+msgid "Text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:181
+msgid "Read more"
+msgstr ""
+
+#: ../functions/shortcode_list.php:185 ../functions/shortcode_list.php:779
+#: ../functions/shortcode_list.php:2065
+msgid "URL"
+msgstr ""
+
+#: ../functions/shortcode_list.php:186
+msgid "ex. http://yoursite.com/"
+msgstr ""
+
+#: ../functions/shortcode_list.php:191 ../functions/shortcode_list.php:355
+#: ../functions/shortcode_list.php:607 ../functions/shortcode_list.php:2069
+msgid "Link type"
+msgstr ""
+
+#: ../functions/shortcode_list.php:193 ../functions/shortcode_list.php:357
+#: ../functions/shortcode_list.php:609 ../functions/shortcode_list.php:2071
+msgid "open in new tab or lightbox"
+msgstr ""
+
+#: ../functions/shortcode_list.php:195 ../functions/shortcode_list.php:359
+#: ../functions/shortcode_list.php:611 ../functions/shortcode_list.php:2073
+msgid "Standard"
+msgstr ""
+
+#: ../functions/shortcode_list.php:196 ../functions/shortcode_list.php:360
+#: ../functions/shortcode_list.php:612 ../functions/shortcode_list.php:2074
+msgid "Open in new tab"
+msgstr ""
+
+#: ../functions/shortcode_list.php:197 ../functions/shortcode_list.php:361
+#: ../functions/shortcode_list.php:613 ../functions/shortcode_list.php:2075
+msgid "Lightbox image"
+msgstr ""
+
+#: ../functions/shortcode_list.php:198 ../functions/shortcode_list.php:362
+#: ../functions/shortcode_list.php:614 ../functions/shortcode_list.php:2076
+msgid "Lightbox iframe"
+msgstr ""
+
+#: ../functions/shortcode_list.php:203 ../functions/shortcode_list.php:370
+#: ../functions/shortcode_list.php:624 ../functions/shortcode_list.php:2081
+msgid "Lightbox iframe width"
+msgstr ""
+
+#: ../functions/shortcode_list.php:214 ../functions/shortcode_list.php:382
+#: ../functions/shortcode_list.php:638 ../functions/shortcode_list.php:2094
+msgid "Lightbox iframe height"
+msgstr ""
+
+#: ../functions/shortcode_list.php:235
+msgid "Centered"
+msgstr ""
+
+#: ../functions/shortcode_list.php:246 ../functions/shortcode_list.php:1824
+msgid "Text hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:251 ../functions/shortcode_list.php:1157
+#: ../functions/shortcode_list.php:1679 ../functions/shortcode_list.php:1741
+#: ../functions/shortcode_list.php:2060
+msgid "Icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:258 ../functions/shortcode_list.php:1787
+#: ../functions/shortcode_list.php:2126
+msgid "Icon size"
+msgstr ""
+
+#: ../functions/shortcode_list.php:265 ../functions/shortcode_list.php:2116
+msgid "Icon alignment"
+msgstr ""
+
+#: ../functions/shortcode_list.php:270
+msgid "Inline"
+msgstr ""
+
+#: ../functions/shortcode_list.php:275
+msgid "Horizontal padding"
+msgstr ""
+
+#: ../functions/shortcode_list.php:281
+msgid "Vertical padding"
+msgstr ""
+
+#: ../functions/shortcode_list.php:305
+msgid "Fill"
+msgstr ""
+
+#: ../functions/shortcode_list.php:307
+msgid "turn off to get a button with border"
+msgstr ""
+
+#: ../functions/shortcode_list.php:316 ../functions/shortcode_list.php:1829
+#: ../functions/shortcode_list.php:2152
+msgid "Background hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:335
+msgid "Image description"
+msgstr ""
+
+#: ../functions/shortcode_list.php:350
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/shortcode_list.php:394
+msgid "Hover icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:402
+msgid "Hover icon size"
+msgstr ""
+
+#: ../functions/shortcode_list.php:417 ../functions/shortcode_list.php:2132
+#: ../functions/shortcode_list.php:2199
+msgid "Round edges"
+msgstr ""
+
+#: ../functions/shortcode_list.php:422
+msgid "Add bottom border"
+msgstr ""
+
+#: ../functions/shortcode_list.php:427 ../functions/shortcode_list.php:932
+#: ../functions/shortcode_list.php:1079 ../functions/shortcode_list.php:1891
+#: ../functions/shortcode_list.php:2209
+msgid "Border color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:435
+msgid "Description text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:443
+msgid "Description background color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:451
+msgid "Border hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:460
+msgid "Description text hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:469
+msgid "Description background hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:482
+msgid "Video"
+msgstr ""
+
+#: ../functions/shortcode_list.php:488
+msgid "Video URL"
+msgstr ""
+
+#: ../functions/shortcode_list.php:499
+msgid "Auto width"
+msgstr ""
+
+#: ../functions/shortcode_list.php:500
+msgid "Use the width of the column"
+msgstr ""
+
+#: ../functions/shortcode_list.php:517
+msgid "Height"
+msgstr ""
+
+#: ../functions/shortcode_list.php:536
+msgid "Tab elements"
+msgstr ""
+
+#: ../functions/shortcode_list.php:537 ../functions/shortcode_list.php:839
+#: ../functions/shortcode_list.php:963
+msgid "Elements are sortable"
+msgstr ""
+
+#: ../functions/shortcode_list.php:538
+msgid "slide"
+msgstr ""
+
+#: ../functions/shortcode_list.php:579
+msgid "Content type"
+msgstr ""
+
+#: ../functions/shortcode_list.php:583
+msgid "Text / Html"
+msgstr ""
+
+#: ../functions/shortcode_list.php:589 ../functions/shortcode_list.php:881
+msgid "Add an image to tab content"
+msgstr ""
+
+#: ../functions/shortcode_list.php:598 ../functions/shortcode_list.php:1751
+msgid "Link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:698
+msgid "Mode"
+msgstr ""
+
+#: ../functions/shortcode_list.php:701
+msgid "Hortizontal"
+msgstr ""
+
+#: ../functions/shortcode_list.php:702
+msgid "Vertical"
+msgstr ""
+
+#: ../functions/shortcode_list.php:708
+msgid "Show pagination"
+msgstr ""
+
+#: ../functions/shortcode_list.php:713
+msgid "Slides per view"
+msgstr ""
+
+#: ../functions/shortcode_list.php:721
+msgid "Auto play"
+msgstr ""
+
+#: ../functions/shortcode_list.php:726
+msgid "Transition delay time"
+msgstr ""
+
+#: ../functions/shortcode_list.php:749
+msgid "Code"
+msgstr ""
+
+#: ../functions/shortcode_list.php:763
+msgid "input"
+msgstr ""
+
+#: ../functions/shortcode_list.php:764
+msgid "Name"
+msgstr ""
+
+#: ../functions/shortcode_list.php:765
+msgid "John Dough"
+msgstr ""
+
+#: ../functions/shortcode_list.php:769
+msgid "Profession"
+msgstr ""
+
+#: ../functions/shortcode_list.php:770
+msgid "photographer / fashion interactive"
+msgstr ""
+
+#: ../functions/shortcode_list.php:774
+msgid "Quote"
+msgstr ""
+
+#: ../functions/shortcode_list.php:793 ../functions/shortcode_list.php:895
+#: ../functions/shortcode_list.php:1672 ../functions/shortcode_list.php:1771
+#: ../functions/shortcode_list.php:1869
+msgid "Clean"
+msgstr ""
+
+#: ../functions/shortcode_list.php:794 ../functions/shortcode_list.php:896
+#: ../functions/shortcode_list.php:1673 ../functions/shortcode_list.php:1772
+#: ../functions/shortcode_list.php:1870
+msgid "Squared"
+msgstr ""
+
+#: ../functions/shortcode_list.php:795 ../functions/shortcode_list.php:897
+#: ../functions/shortcode_list.php:1674 ../functions/shortcode_list.php:1773
+#: ../functions/shortcode_list.php:1871
+msgid "Rounded"
+msgstr ""
+
+#: ../functions/shortcode_list.php:807
+msgid "Name color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:812
+msgid "Quote text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:838
+msgid "Tan elements"
+msgstr ""
+
+#: ../functions/shortcode_list.php:840
+msgid "tab item"
+msgstr ""
+
+#: ../functions/shortcode_list.php:872 ../functions/shortcode_list.php:996
+msgid "Title"
+msgstr ""
+
+#: ../functions/shortcode_list.php:885 ../functions/shortcode_list.php:1009
+msgid "Active"
+msgstr ""
+
+#: ../functions/shortcode_list.php:886 ../functions/shortcode_list.php:1010
+msgid ""
+"Only one panel can be active at a time, so be sure to uncheck the others for "
+"it to work properly"
+msgstr ""
+
+#: ../functions/shortcode_list.php:909
+msgid "Tab title color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:919
+msgid "Active tab title color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:927
+msgid "Active tab border color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:937
+msgid "Tab background color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:962
+msgid "Accordion elements"
+msgstr ""
+
+#: ../functions/shortcode_list.php:964
+msgid "accordion item"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1005
+msgid "Add an image to accordion content"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1019
+msgid "Clean right"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1020
+msgid "Squared right"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1021
+msgid "Rounded right"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1022
+msgid "Clean left"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1023
+msgid "Squared left"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1024
+msgid "Rounded left"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1029
+msgid "Fixed height"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1030
+msgid "if desabled height will vary due to content height"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1051
+msgid "Trigger color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1056
+msgid "Title active color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1064
+msgid "Trigger active color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1093
+msgid "Number of columns"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1096
+msgid "One column"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1097
+msgid "Two columns"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1098
+msgid "Three columns"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1099
+msgid "Four columns"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1100
+msgid "Five columns"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1106
+msgid "Show services sidebar"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1113
+msgid "Pricing rows"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1114
+msgid "Rows are sortable"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1115
+msgid "row"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1126
+msgid "Row type"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1130
+msgid "Price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1132
+msgid "Text with button"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1133
+msgid "Section"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1134
+msgid "Service"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1135
+msgid "Border"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1140
+msgid "Bottom border"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1146
+msgid "Service label"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1171
+msgid "Column 1 icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1182
+msgid "Column 1 text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1192
+msgid "Column 1 price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1202
+msgid "Column 1 interval"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1212
+msgid "Column 1 button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1222
+msgid "Column 1 button link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1234
+msgid "Column 2 icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1246
+msgid "Column 2 text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1257
+msgid "Column 2 price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1268
+msgid "Column 2 interval"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1279
+msgid "Column 2 button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1290
+msgid "Column 2 button link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1303
+msgid "Column 3 icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1315
+msgid "Column 3 text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1326
+msgid "Column 3 price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1337
+msgid "Column 3 interval"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1348
+msgid "Column 3 button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1359
+msgid "Column 3 button link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1372
+msgid "Column 4 icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1384
+msgid "Column 4 text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1395
+msgid "Column 4 price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1406
+msgid "Column 4 interval"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1417
+msgid "Column 4 button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1428
+msgid "Column 4 button link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1441
+msgid "Column 5 icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1453
+msgid "Column 5 text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1464
+msgid "Column 5 price"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1475
+msgid "Column 5 interval"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1486
+msgid "Column 5 button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1497
+msgid "Column 5 button link"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1516
+msgid "Currency"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1531
+msgid "Column 1 main color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1536
+msgid "Column 1 hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1541
+msgid "Column 1 button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1546
+msgid "Column 2 main color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1554
+msgid "Column 2 hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1562
+msgid "Column 2 button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1570
+msgid "Column 3 main color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1578
+msgid "Column 3 hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1586
+msgid "Column 3 button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1594
+msgid "Column 4 main color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1602
+msgid "Column 4 hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1610
+msgid "Column 4 button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1618
+msgid "Column 5 main color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1626
+msgid "Column 5 hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1634
+msgid "Column 5 button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1652 ../functions/shortcode_list.php:1953
+msgid "Type"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1655
+msgid "Info"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1656
+msgid "Success"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1657
+msgid "Notice"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1658
+msgid "Warning"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1659
+msgid "Custom"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1665
+msgid "This is an alert"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1709 ../functions/shortcode_list.php:1796
+#: ../functions/shortcode_list.php:2137
+msgid "Icon color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1736
+msgid "title"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1753
+msgid "leave empty if you dont want the featur to be linked"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1757
+msgid "Element order"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1760
+msgid "Icon left"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1761
+msgid "Icon right"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1762
+msgid "Icon after title"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1763
+msgid "Icon before title"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1814
+msgid "Title hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1819 ../functions/shortcode_list.php:2147
+msgid "Icon hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1848
+msgid "Post id"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1850
+msgid "You must have at leest one wordpress post"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1855
+msgid "Image hover icon"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1860
+msgid "Button text"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1896
+msgid "Button color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1901
+msgid "Button text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1906
+msgid "Button hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1911
+msgid "Button text hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1916
+msgid "Heading color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1921
+msgid "Meta links color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1922
+msgid "color of the meta links - Date, Author, Comments"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1927
+msgid "Meta hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1946
+msgid "WP Menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1947
+msgid "Select wordpress nav menu that you want to display"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1956
+msgid "Clean horizontal menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1957
+msgid "Squared horizontal menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1958
+msgid "Rounded horizontal menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1959
+msgid "Clean vertical menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1960
+msgid "Squared vertical menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1961
+msgid "Rounded vertical menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1962
+msgid "Clean dropdown menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1963
+msgid "Squared dropdown menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1964
+msgid "Rounded dropdown menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1969
+msgid "Menu title"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1988
+msgid "Hover color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:1993
+msgid "Hover text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2003
+msgid "Sub-menu background color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2008
+msgid "Sub-menu text color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2013
+msgid "Sub-menu sepparator color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2025
+msgid "Icon menu"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2031
+msgid "Icons"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2160
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2166
+msgid "WP Sidebar"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2167
+msgid "Select wordpress sidebar that you want to display"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2182
+msgid "Search box"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2189
+msgid "Search"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2219
+msgid "Text focus color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2224
+msgid "Border focus color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2229
+msgid "Background focus color"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2256
+msgid "Custom ID"
+msgstr ""
+
+#: ../functions/shortcode_list.php:2257
+msgid "For use of anchor in url. Make sure that this ID is unique on the page."
+msgstr ""
+
+#: ../pages/edit_page.php:53
+msgid "Text editor"
+msgstr ""

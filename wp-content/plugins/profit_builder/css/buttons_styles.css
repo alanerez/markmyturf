@@ -1,0 +1,406 @@
+.pbuilder_select .pbcss3buttonpreview{
+    height: 20px;
+    display: block;
+    margin-top: -4px;
+    text-align: center;
+    width: 125px;
+    line-height: 0;
+}
+
+.pbuilder_select .pbcss3buttonpreview .text{
+    font-size: 13px !important;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    line-height: 17px !important;
+}
+
+.pbuilder_select ul .pbcss3buttonpreview{
+    height: 36px;
+}
+
+.pbuilder_select ul .pbcss3buttonpreview .text {
+    line-height: 25px;
+}
+
+.pbuilder_select .pre-done-preview{
+    height: 25px;
+    margin-top: -7px;
+}
+
+.pbuilder_select ul .pre-done-preview{
+    height: 45px;
+    margin-top: auto;
+}
+
+.pbcss3buttonstyle1 {
+    border:1px solid #000000 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#5adaff, #005cdb) !important;
+    background: -o-linear-gradient(#5adaff, #005cdb) !important;
+    background: -moz-linear-gradient(#5adaff, #005cdb) !important;
+    background:linear-gradient(#5adaff, #005cdb) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle1 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:28px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px -1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle2 {
+    border:1px solid #000000 !important;
+    border-radius:3px !important;
+    border:1px solid #000000 !important;
+    
+    background: -webkit-linear-gradient(#ff5b5b, #ac0000) !important;
+    background: -o-linear-gradient(#ff5b5b, #ac0000) !important;
+    background: -moz-linear-gradient(#ff5b5b, #ac0000) !important;
+    background:linear-gradient(#ff5b5b, #ac0000) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffff00 inset !important;*/
+}
+
+.pbcss3buttonstyle2 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:24px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px -1px 0px #080808 !important;
+}
+
+.pbcss3buttonstyle3 {
+    border:1px solid #000000 !important;
+    border-radius:50px !important;
+    
+    background: -webkit-linear-gradient(#40bf00, #006600) !important;
+    background: -o-linear-gradient(#40bf00, #006600) !important;
+    background: -moz-linear-gradient(#40bf00, #006600) !important;
+    background:linear-gradient(#40bf00, #006600) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 1px 0px 0px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle3 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:28px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #080808 !important;
+}
+
+.pbcss3buttonstyle4 {
+    border:1px solid #999999 !important;
+    border-radius:50px !important;
+    
+    background: -webkit-linear-gradient(#ffffff, #e5e5e5) !important;
+    background: -o-linear-gradient(#ffffff, #e5e5e5) !important;
+    background: -moz-linear-gradient(#ffffff, #e5e5e5) !important;
+    background:linear-gradient(#ffffff, #e5e5e5) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle4 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:18px;
+    color:#000000 !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #ffffff !important;
+}
+
+.pbcss3buttonstyle5 {
+    background: -webkit-linear-gradient(#fe5500, #f34a00) !important;
+    background: -o-linear-gradient(#fe5500, #f34a00) !important;
+    background: -moz-linear-gradient(#fe5500, #f34a00) !important;
+    background: linear-gradient(#fe5500, #f34a00) !important;
+    
+    border:1px solid #bd3f00 !important;
+    border-radius:10px !important;
+    box-shadow:0px 5px 0px 0px #bd3f00 !important;/*,0px 0px 0px 1px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle5 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:24px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle6 {
+    box-shadow:0px 0px 0px 0px #ffffff !important;/*,0px 0px 0px 0px #ffffff inset !important;*/
+    border:1px solid #ffbf00 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#fff9d9, #ffeabf) !important;
+    background: -o-linear-gradient(#fff9d9, #ffeabf) !important;
+    background: -moz-linear-gradient(#fff9d9, #ffeabf) !important;
+    background:linear-gradient(#fff9d9, #ffeabf) !important;
+}
+
+.pbcss3buttonstyle6 .text {
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#00457c !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    font-style:italic !important;
+    text-shadow:0px 1px 0px #ffffff !important;
+}
+
+.pbcss3buttonstyle7 {
+    border:1px solid #000000 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#808080, #000000) !important;
+    background: -o-linear-gradient(#808080, #000000) !important;
+    background: -moz-linear-gradient(#808080, #000000) !important;
+    background:linear-gradient(#808080, #000000) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle7 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle8 {
+    border:1px solid #000000 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#ecf0ff, #8daaff) !important;
+    background: -o-linear-gradient(#ecf0ff, #8daaff) !important;
+    background: -moz-linear-gradient(#ecf0ff, #8daaff) !important;
+    background:linear-gradient(#ecf0ff, #8daaff) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffffff inset !important;*/
+}
+
+.pbcss3buttonstyle8 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#002080 !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #ffffff !important;
+}
+
+.pbcss3buttonstyle9 {
+    border:5px solid #002080 !important;
+    border-radius:50px !important;
+    
+    background: -webkit-linear-gradient(#f5f46d, #c3c300) !important;
+    background: -o-linear-gradient(#f5f46d, #c3c300) !important;
+    background: -moz-linear-gradient(#f5f46d, #c3c300) !important;
+    background:linear-gradient(#f5f46d, #c3c300) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffff00 inset !important;*/
+}
+
+.pbcss3buttonstyle9 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#002080 !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #efefbd !important;
+}
+
+.pbcss3buttonstyle10 {
+    border:1px solid #d69300 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#ffcf0a, #ffda22) !important;
+    background: -o-linear-gradient(#ffcf0a, #ffda22) !important;
+    background: -moz-linear-gradient(#ffcf0a, #ffda22) !important;
+    background:linear-gradient(#ffcf0a, #ffda22) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 1px 0px 0px #ffe590 inset !important;*/
+}
+
+.pbcss3buttonstyle10 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:20px;
+    color:#504210 !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #ffff9e !important;
+}
+
+.pbcss3buttonstyle11 {
+    background: -webkit-linear-gradient(#66b547, #509f31) !important;
+    background: -o-linear-gradient(#66b547, #509f31) !important;
+    background: -moz-linear-gradient(#66b547, #509f31) !important;
+    background: linear-gradient(#66b547, #509f31) !important;
+    
+    border:none !important;
+    box-shadow:0px 0px 0px 0px #ffffff !important;/*,0px 0px 0px 0px #ffffff inset !important;*/
+    border-radius:6px !important;
+}
+
+.pbcss3buttonstyle11 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    text-shadow:0px 0px 0px #ffff00 !important;
+    font-size:32px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+}
+
+.pbcss3buttonstyle12 {
+    background: -webkit-linear-gradient(#59b0e4, #3f96ca) !important;
+    background: -o-linear-gradient(#59b0e4, #3f96ca) !important;
+    background: -moz-linear-gradient(#59b0e4, #3f96ca) !important;
+    background: linear-gradient(#59b0e4, #3f96ca) !important;
+    
+    border:none !important;
+    box-shadow:0px 0px 0px 0px #ffffff !important;/*,0px 0px 0px 0px #ffffff inset !important;*/
+    border-radius:4px !important;
+}
+
+.pbcss3buttonstyle12 .text {
+    font-weight:normal !important;
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle13 {
+    background: -webkit-linear-gradient#ff8840, #f0732b) !important;
+    background: -o-linear-gradient#ff8840, #f0732b) !important;
+    background: -moz-linear-gradient#ff8840, #f0732b) !important;
+    background: linear-gradient(#ff8840, #f0732b) !important;
+    
+    border:none !important;
+    box-shadow:0px 0px 0px 0px #ffffff !important;/*,0px 0px 0px 0px #ffffff inset !important;*/
+    border-radius:6px !important;
+}
+
+.pbcss3buttonstyle13 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    text-shadow:0px 0px 0px #ffff00 !important;
+    font-size:24px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+}
+
+.pbcss3buttonstyle14 {
+    border:1px solid #666666 !important;
+    border-radius:8px !important;
+    
+    background: -webkit-linear-gradient(#86c833, #3f8e30) !important;
+    background: -o-linear-gradient(#86c833, #3f8e30) !important;
+    background: -moz-linear-gradient(#86c833, #3f8e30) !important;
+    background:linear-gradient(#86c833, #3f8e30) !important;
+    
+    box-shadow:0px 1px 0px 0px #000000 !important;/*,0px 1px 0px 0px #c2ee80 inset !important;*/
+}
+
+.pbcss3buttonstyle14 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    font-size:24px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    letter-spacing:-1px !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle15 {
+    background: -webkit-linear-gradient(#60c2f1, #2969b1) !important;
+    background: -o-linear-gradient(#60c2f1, #2969b1) !important;
+    background: -moz-linear-gradient(#60c2f1, #2969b1) !important;
+    background: linear-gradient(#60c2f1, #2969b1) !important;
+    
+    border: 1px solid #000000 !important;
+    border-radius: 6px !important;
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:28px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle15 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:28px;
+    color:#ffffff !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #000000 !important;
+}
+
+.pbcss3buttonstyle16 {
+    border:1px solid #000000 !important;
+    border-radius:6px !important;
+    
+    background: -webkit-linear-gradient(#ffff00, #ffa035) !important;
+    background: -o-linear-gradient(#ffff00, #ffa035) !important;
+    background: -moz-linear-gradient(#ffff00, #ffa035) !important;
+    background:linear-gradient(#ffff00, #ffa035) !important;
+    
+    box-shadow:0px 1px 1px 0px #000000 !important;/*,0px 0px 0px 1px #ffff00 inset !important;*/
+}
+
+.pbcss3buttonstyle16 .text {
+    font-style:normal !important;
+    text-decoration:none !important;
+    letter-spacing:normal !important;
+    font-size:36px;
+    color:#000000 !important;
+    font-family: Tahoma !important;
+    font-weight:bold !important;
+    text-shadow:0px 1px 0px #ffff00 !important;
+}

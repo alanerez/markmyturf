@@ -1,0 +1,50 @@
+Traditional
+	'Files' profile type now support backing up from a custom directory root. Useful for backing up only individual directories without having to default to backing up everything and excluding everything else, whether within the site root or even above the site root such as when custom content directories are set above the ABSPATH. Note: File/directory exclusions not currently supported for custom root directories. All content within the custom root will be backed up. Integrity check is not applied to custom root enabled profiles.
+
+Server Tools
+	Added new PHP memory test to test & verify actual amount of memory available to PHP as many servers misreport this informatino.
+	Added new PHP runtime tester added to test & verify actual available PHP runtime as many servers misreport this information.
+	Added WordPress cron tester to verify the WordPress cron is functioning.
+	Added WordPress AJAX loopback test in addition to basic loopback test to verify the host is not blocking any loopbacks.
+
+Stash Live
+	Daily statistics are now calculated such as the number of files and database tables sent and total size of database tables and files sent per day. Displayed under Advanced Troubleshooting Options.
+	Improved performance uses fewer resources resulting in less server impact.
+	Advanced Troubleshooting log provides intelligently generated data for aiding in troubleshooting and support.
+	
+		
+		Various improvements to Server Tools tests.
+		Various improvements to ImportBuddy process.
+		Various improvements to Deployment process.
+
+	Dropbox (v2): Updated SDK version to latest v1.1.6 to support new SSL and certificate changes.
+
+	Amazon S3 (v2): Added support for S3 Transfer Acceleration to increase transfer speeds 50%-500% (or even more if sending to buckets out of country). See https://aws.amazon.com/blogs/aws/aws-storage-update-amazon-s3-transfer-acceleration-larger-snowballs-in-more-regions/ for more information.
+	
+
+
+		Stash Live: Automatic memory problem detection.
+		HTML email notification template can now be overridden with custom template. To do so copy the existing default template located at /wp-content/plugins/backupbuddy/views/backupbuddy-email-template.php into your theme directory at /wp-content/themes/backupbuddy-email-template.php. You may then edit this new template file to your liking. Its existance automatically enables using the new template rather than the default.
+
+		Stash Live: Added alerts section to troubleshooting log to alert on highlights that are very likely to be a problem.
+		Stash Live: Added automated running of troubleshooting data process via cron to detect possible causes of problems if Snaphost has not run in 72 hours or more.
+		Stash Live: Added new potential problems alert to alert user if potential issues are detected such as low memory to aid user prior to having to seek support. Only runs if no snapshot has been made in > 3 days for performance. Auto-clears on successful snapshot or problem goes away and troubeleshooting log is re-viewed.
+		Stash Live: Potential problem alert now detects definite memory shortages based on tested memory and alerts if no snapshot was made in 72 hours to help indicate actual problem. Also flags in new alerts section of troubleshooting log.
+
+
+		Access Permission setting now adds support for restricting to custom roles.
+		sFTP: Added beta support for sFTP key file.
+
+		Stash Live: A detected PHP execution time limit below 30 seconds displays an alert on the Stash Live page with instructions to contact host.
+		BackupBuddy now automatically backs up and restores its own settings if they become missing or corrupted due to database problems. This will help prevent loss of settings and backups.
+		Added new "Delete All Cron Entries" button to Server Tools' WordPress Schedules (cron) section for clearing out all cron entries for all of WordPress.  Useful if a plugin clogs the cron system with too many entries.
+
+
+		
+		Sync: Added support for new daily stats tracking.
+
+		Added new BETA Amazon S3 (v3) remote destination. Improved performance, bug fixes, and troubleshooting capabilities. Uses new AWS SDK v3 which fixes several known bugs in the v2 SDK uses in the v2 destination.
+		Added new BETA Stash (v3) remote destination. Improved performance, bug fixes, and troubleshooting capabilities.
+		New S3 and Stash destinations recommended for any users experiencing problems with special encoded characters such as non-UTF8 non-ascii characters in filenames.
+
+		
